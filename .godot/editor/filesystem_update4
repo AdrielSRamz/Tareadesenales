@@ -1,3 +1,2 @@
-res://scenes/Buttons/Reset/reset.gd
-res://scenes/Buttons/Reset/Reset.tscn
+res://scenes/Menu/Menu.tscn
 res://scenes/Menu/Menu.gd
